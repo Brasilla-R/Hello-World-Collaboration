@@ -1,7 +1,9 @@
 Hello-World-Collaboration
-Demonstration of the GitHub Fork and Pull Request Workflow
-Collaboration Workflow
 
+Demonstration of the GitHub Fork and Pull Request Workflow
+
+
+Collaboration Workflow
 This project demonstrates the GitHub collaboration process.
 
 - Fork a repository.
